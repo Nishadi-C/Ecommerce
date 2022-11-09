@@ -25,3 +25,4 @@ Case [Rep-1658] : Login
         Sleep    2
         Click Button    ${Confirm_LoginButton-id-elements}
         Sleep    3
+        Sleep    2
